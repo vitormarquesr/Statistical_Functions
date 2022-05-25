@@ -10,8 +10,8 @@ Some functions to help perform and investigate statistical tests
   + [Mann-Whitney Test for two independent samples](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Mann_Whitney.R)
 
 * **Tests for the location, three or more samples**: Functions to generate data frame of posts and test statistics. Also include function to perform multiple comparisons. 
-  + [Kruskal-Wallis Test](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Kruskal_Wallis.R)
-
+  + [Kruskal-Wallis Test (Independent samples)](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Kruskal_Wallis.R)
+  + [Friedman Test (Dependent samples)](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Friedman.R)
 * **Tests for homogeneity of variances, three or more samples**: Function to generate parameters, test statistics and perform multiple comparisons.
   + [Homogeneity of variances, test similar to Kruskal-Wallis](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Homogeneity_of_Variances.R)
   + [Levene's test](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Levene_Test.R)
