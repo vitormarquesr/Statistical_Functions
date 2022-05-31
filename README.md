@@ -15,3 +15,6 @@ Some functions to help perform and investigate statistical tests
 * **Tests for homogeneity of variances, three or more samples**: Function to generate parameters, test statistics and perform multiple comparisons.
   + [Homogeneity of variances, test similar to Kruskal-Wallis](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Homogeneity_of_Variances.R)
   + [Levene's test](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Levene_Test.R)
+* **Correlation Coefficients**: Functions to calculate nonparametric correlation coefficients and parameters to perform hypothesis tests
+  + [Spearman](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Spearman.R)
+  + [Kendall](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Kendall.R)
