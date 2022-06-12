@@ -18,3 +18,6 @@ Some functions to help perform and investigate statistical tests
 * **Correlation Coefficients**: Functions to calculate nonparametric correlation coefficients and parameters to perform hypothesis tests
   + [Spearman](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Spearman.R)
   + [Kendall](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Kendall.R)
+* **Bootstrap**:
+  + [Bootstrap](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Bootstrap.R)
+  
