@@ -20,4 +20,5 @@ Some functions to help perform and investigate statistical tests
   + [Kendall](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Kendall.R)
 * **Bootstrap**:
   + [Bootstrap](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Bootstrap.R)
-  
+* **Permutation**:
+  + [Permutation Test](https://github.com/vitormarquesr/Statistical_Functions/blob/main/Nonparametric/Permutation_Test.R)
